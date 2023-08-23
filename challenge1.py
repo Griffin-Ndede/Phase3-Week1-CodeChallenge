@@ -13,3 +13,4 @@ def hour_converter(hour, minute, period):
 
     return hour_str + minute_str
 
+print(hour_converter(1,35,"am"))
