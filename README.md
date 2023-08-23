@@ -1,9 +1,8 @@
-# OnTrack Bikeshare platform
+# Code Challenge phase 3 week 1
 
 ## Author
 Griffin Omondi
 
-A description of the bikeshare service.
 # Table of content
 Description
 
@@ -30,23 +29,12 @@ Either a computer,phone,tablet or an Ipad
 
 An access to the Internet
 
-Web browser preferably Google chrome
 
 # Technologies used
-HTML - to structure the different pages that are present in the program
-
-CSS - to style the different html pages
-
-Javascript - to display the user profile information on the user profile page and add event listeners to the buttons on the page.
+Python to define the functions in the program
 
 
 ## References
-Fonts https://fonts.google.com/
-
-Icons https://fontawesome.com/
-
-Server https://studentprofile.onrender.com/student
-
 
 ## License
 The project is licensed under the MIT license.
